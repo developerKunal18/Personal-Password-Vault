@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Never upload personal vault data
+data/vault.json
+data/vault.json.tmp
